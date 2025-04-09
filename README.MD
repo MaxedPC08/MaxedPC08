@@ -3,7 +3,7 @@ I am currently learning all that I can about large language models and I hope to
 One of my favorite projects was Adalpha. It is a new optimizer for machine learning systems to avoid mode collapse. Currently it is only availible in keras. Upon request, I can work on porting Adalpha to Pytorch as that is what I mainly use now, but I simply do not have the time to do it fruitlessly. 
 
 # Major Projects:
-## Astrolabe:
+## [Astrolabe:](https://github.com/MaxedPC08/Astrolabe)
 I created a full vision processing library for FIRST Robotics Competition teams. It can be installed on any linux coprocessor (Raspberry PI, Orange PI, etc.) and has a corresponding user interface. It is capable of handling multiple camreras at once, parallel requests, AprliTag detection, and color based object detection. On a Raspberry Pi 3B+, Astrolabe achieved about 40 fps with two cameras at 480p and 100 fps with a Raspberry Pi 5.
 
 ## Adalpha:
@@ -20,4 +20,10 @@ I created TreeNet as a cross between sequential AI models and Mixture of experts
 This year, I was on both the mechanical and the programming team on my FRC robotics team, FYRE 5480. This is the repository for our full robot code. I worked mostly on vision processing and human control, but I also helped develop our swerve drive software.
 
 # Minor Projects
+## Quick Browse and Notes
+This is a simple script that allows users to search the web and take notes with a single key-bind. I developed it mainly for personal use, but some friends liked it, so it is now public!
+
+## NetBloks
+This is my team's submission to UNR ACM's Biggest Little Hackathon. It is an app that allows users to construct AI models with block coding then run or export them with Pytorch. We had 40 hours to make it, so it is very bug-ridden, but it is still an epic project!
+
 
