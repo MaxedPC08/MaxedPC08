@@ -11,10 +11,12 @@ Adalpha was my personal spin on the Adam optimizer for machine learning. Essenti
 
 ## TreeNet:
 ***Still in a testing phase***
+
 I created TreeNet as a cross between sequential AI models and Mixture of experts. Essentially, the model has some number of input nodes, from which the gate selects. Each node feeds its output to its parent, and every node, aside from the input nodes, has two children. For a model with *n* experts, a tree network only has 2n-1 nodes, where the same model in a traditional mixture of experts would have n*log_2(n) nodes. This significantly reduces space and time complexity, and, in theory, reduces the amount of training required, as there are fewer late-model layers that create the output (for example, layers in large language models that translate internal values back into words should be pretty universal, so reducing the number of them that need training is a good way to optimize the training process).
 
 ## FYRE2025
 ***This was a team effort. Check repository for other contributors.***
+
 This year, I was on both the mechanical and the programming team on my FRC robotics team, FYRE 5480. This is the repository for our full robot code. I worked mostly on vision processing and human control, but I also helped develop our swerve drive software.
 
 # Minor Projects
