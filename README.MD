@@ -1,5 +1,6 @@
-Hello! I am Max, a highschool student with a love for learning of all sorts - machine, deep, or academic. I generally work on python machine learning projects, though I do know numerous other languages.
-I am currently learning all that I can about large language models and I hope to crack into MMMs soon if I can. I am limited by my singular RTX 3060 GPU, but I consider it a blessing in disguise, as it teaches / forces me to write memory optimized code. I do use AI to code, but only to handle trivial tasks that I am sure I know how to do. I enjoy mechanical engineering, and have really found my place doing robotics, which feels like a nice mix of CS and mechanical engineering. I am always open to new opportunities, so reach out!
+Hello! I am Max, a highschool student with a love for learning of all sorts - machine, deep, or academic. I generally work on Python machine learning projects, though I do know numerous other languages. I am fascinated with the fusion of robotics and AI. I am currently learning all that I can about vision processing techniques and I hope to crack mixing LLMs, vision processing, and robotics soon if I can. I am limited by my singular RTX 3060 GPU, but I consider it a blessing in disguise, as it teaches / forces me to write memory optimized code. I enjoy mechanical engineering, and have really found my place doing robotics, which feels like a nice mix of CS and mechanical engineering. I am always open to new opportunities, so reach out!
+
+*Disclaimer: I do use AI to code, but only to handle trivial tasks that I am sure I know how to do.*
 
 # Major Projects:
 ## [Astrolabe:](https://github.com/MaxedPC08/Astrolabe)
